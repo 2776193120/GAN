@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wsco@114.213.213.104:22">
+    <serverData>
+      <paths name="wsco@114.213.213.104:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wsco/Disk_sdb/wangxiuxiu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://wsco@114.213.213.104:22/home/wsco/anaconda3/envs/xx-python/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/wsco/Disk_sdb/wangxiuxiu" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://wsco@114.213.213.104:22/home/wsco/anaconda3/envs/xx-python/bin/python3.6" />
+      </list>
+    </list>
+  </component>
+</project>
